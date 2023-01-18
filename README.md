@@ -1,2 +1,2 @@
-# Tugas17Sanber
+# BelajarSelenium
 Tugas 17 Sanbercode
